@@ -1,6 +1,4 @@
-label{ 
-  width: 500px; 
-  display: inline-block;
-  text-align: right;
-
+.put{
+  width: 32%;
+  padding: 15px;
 }
